@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
+https://snipboard.io/yx6nK2.jpg
 
 
 # Result
