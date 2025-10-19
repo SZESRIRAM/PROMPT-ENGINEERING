@@ -58,7 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
-https://snipboard.io/yx6nK2.jpg
+![image alt](https://github.com/SZESRIRAM/PROMPT-ENGINEERING/blob/main/PROMPT.png?raw=true)
 
 
 # Result
