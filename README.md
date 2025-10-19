@@ -58,8 +58,8 @@ Step 7: Finalize and Export
 
 
 # Output
-![image alt](https://github.com/SZESRIRAM/PROMPT-ENGINEERING/blob/main/PROMPT.png?raw=true)
-
+![image alt](https://github.com/SZESRIRAM/PROMPT-ENGINEERING/blob/main/EXP%201%20Page%201.jpg?raw=true)
+![image alt](https://github.com/SZESRIRAM/PROMPT-ENGINEERING/blob/main/EXP%201%20Page%202.jpg?raw=true)
 
 # Result
 The report provides a clear understanding of Generative AI and Large Language Models, their architectures, and applications. It highlights how scaling enhances model performance while introducing challenges like high resource use and ethical concerns. Overall, Generative AI is shown to be a key technology driving modern AI advancements.
